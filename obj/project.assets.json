@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\DiscordIntegrityChecker\\DiscordIntegrityChecker.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Documents\\Github\\DiscordIntegrityChecker\\DiscordIntegrityChecker.csproj",
       "projectName": "DiscordIntegrityChecker",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\DiscordIntegrityChecker\\DiscordIntegrityChecker.csproj",
+      "projectPath": "C:\\Users\\admin\\Documents\\Github\\DiscordIntegrityChecker\\DiscordIntegrityChecker.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\DiscordIntegrityChecker\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Documents\\Github\\DiscordIntegrityChecker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

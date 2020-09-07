@@ -11,3 +11,16 @@ C:\Users\admin\source\repos\DiscordIntegrityChecker\obj\Debug\netcoreapp3.1\Disc
 C:\Users\admin\source\repos\DiscordIntegrityChecker\obj\Debug\netcoreapp3.1\DiscordIntegrityChecker.dll
 C:\Users\admin\source\repos\DiscordIntegrityChecker\obj\Debug\netcoreapp3.1\DiscordIntegrityChecker.pdb
 C:\Users\admin\source\repos\DiscordIntegrityChecker\obj\Debug\netcoreapp3.1\DiscordIntegrityChecker.genruntimeconfig.cache
+C:\Users\admin\Documents\Github\DiscordIntegrityChecker\bin\Debug\netcoreapp3.1\DiscordIntegrityChecker.exe
+C:\Users\admin\Documents\Github\DiscordIntegrityChecker\bin\Debug\netcoreapp3.1\DiscordIntegrityChecker.deps.json
+C:\Users\admin\Documents\Github\DiscordIntegrityChecker\bin\Debug\netcoreapp3.1\DiscordIntegrityChecker.runtimeconfig.json
+C:\Users\admin\Documents\Github\DiscordIntegrityChecker\bin\Debug\netcoreapp3.1\DiscordIntegrityChecker.runtimeconfig.dev.json
+C:\Users\admin\Documents\Github\DiscordIntegrityChecker\bin\Debug\netcoreapp3.1\DiscordIntegrityChecker.dll
+C:\Users\admin\Documents\Github\DiscordIntegrityChecker\bin\Debug\netcoreapp3.1\DiscordIntegrityChecker.pdb
+C:\Users\admin\Documents\Github\DiscordIntegrityChecker\obj\Debug\netcoreapp3.1\DiscordIntegrityChecker.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Github\DiscordIntegrityChecker\obj\Debug\netcoreapp3.1\DiscordIntegrityChecker.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Github\DiscordIntegrityChecker\obj\Debug\netcoreapp3.1\DiscordIntegrityChecker.AssemblyInfo.cs
+C:\Users\admin\Documents\Github\DiscordIntegrityChecker\obj\Debug\netcoreapp3.1\DiscordIntegrityChecker.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Github\DiscordIntegrityChecker\obj\Debug\netcoreapp3.1\DiscordIntegrityChecker.dll
+C:\Users\admin\Documents\Github\DiscordIntegrityChecker\obj\Debug\netcoreapp3.1\DiscordIntegrityChecker.pdb
+C:\Users\admin\Documents\Github\DiscordIntegrityChecker\obj\Debug\netcoreapp3.1\DiscordIntegrityChecker.genruntimeconfig.cache

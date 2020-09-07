@@ -35,12 +35,12 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "C:\Users\admin\source\repos\DiscordIntegrityChecker\bin\Release\netcoreapp3.1\DiscordIntegrityChecker.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\admin\source\repos\DiscordIntegrityChecker\bin\Release\netcoreapp3.1\DiscordIntegrityChecker.deps.json"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\admin\source\repos\DiscordIntegrityChecker\bin\Release\netcoreapp3.1\DiscordIntegrityChecker.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\admin\source\repos\DiscordIntegrityChecker\bin\Release\netcoreapp3.1\DiscordIntegrityChecker.pdb"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\admin\source\repos\DiscordIntegrityChecker\bin\Release\netcoreapp3.1\DiscordIntegrityChecker.runtimeconfig.dev.json"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\admin\source\repos\DiscordIntegrityChecker\bin\Release\netcoreapp3.1\DiscordIntegrityChecker.runtimeconfig.json"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\admin\Documents\Github\DiscordIntegrityChecker\bin\Release\netcoreapp3.1\DiscordIntegrityChecker.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\admin\Documents\Github\DiscordIntegrityChecker\bin\Release\netcoreapp3.1\DiscordIntegrityChecker.deps.json"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\admin\Documents\Github\DiscordIntegrityChecker\bin\Release\netcoreapp3.1\DiscordIntegrityChecker.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\admin\Documents\Github\DiscordIntegrityChecker\bin\Release\netcoreapp3.1\DiscordIntegrityChecker.pdb"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\admin\Documents\Github\DiscordIntegrityChecker\bin\Release\netcoreapp3.1\DiscordIntegrityChecker.runtimeconfig.dev.json"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\admin\Documents\Github\DiscordIntegrityChecker\bin\Release\netcoreapp3.1\DiscordIntegrityChecker.runtimeconfig.json"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
