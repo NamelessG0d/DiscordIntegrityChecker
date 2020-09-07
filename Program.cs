@@ -47,7 +47,7 @@ namespace DiscordIntegrityChecker
                 string[] arrLine = File.ReadAllLines(info.FullName);
                 for(var i = 0; i < arrLine.Length; i++)
                 {
-                    if (arrLine[i].Contains("webhook"))
+                    if (arrLine[i].ToLower().Contains("webhook"))
                     {
                         Console.WriteLine("Infected file detected (" + info.Name + "), code : ");
                         Console.WriteLine(arrLine[i]);
